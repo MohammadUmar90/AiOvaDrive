@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "165314191946",
+    "project_id": "ovadrive-e6aaf",
+    "storage_bucket": "ovadrive-e6aaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165314191946:android:8aecdf157f198701adfcb3",
+        "android_client_info": {
+          "package_name": "com.example.ovadrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDweQtG-LDeFofvvFFTs7zzcCVzO3Q4M4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
